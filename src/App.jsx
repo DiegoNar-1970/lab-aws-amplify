@@ -17,6 +17,7 @@ function App() {
       <p>Estudiante CARLOS MANUEL BOTERO </p>
       <p>Estudiante BRANDON STEVEN CARVAJAL SEPULVEDA </p>
       <p>DIEGO ALEJANDRO NARANJO MONCADA </p>
+      <p>Willington Londoño </p>
       <p>Curso: Laboratorio DevOps</p>
       <button onClick={() => setCount((count) => count + 1)}>
         count is {count}
